@@ -130,7 +130,7 @@ dmypy.json
 
 
 # non-input images
-inter/*
-output/*
-slices/*
+inter/*.jpeg
+output/*.jpeg
+slices/*.jpeg
 .DS_Store
