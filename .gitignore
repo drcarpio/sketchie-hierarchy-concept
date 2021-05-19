@@ -133,3 +133,4 @@ dmypy.json
 inter/*
 output/*
 slices/*
+.DS_Store
